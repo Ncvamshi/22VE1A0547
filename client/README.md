@@ -1,3 +1,3 @@
 ![pic1](../screenshots/client1.png)
-![pic2](../assets/client2.png)
-![pic3](../assets/client3.png)
+![pic2](../screenshots/client2.png)
+![pic3](../screenshots/client3.png)
