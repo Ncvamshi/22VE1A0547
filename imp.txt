@@ -1,0 +1,8 @@
+{
+	"email": "krishnavamshinch@gmail.com",
+	"name": "n c krishna vamshi",
+	"rollNo": "22ve1a0547",
+	"accessCode": "NNZDGq",
+	"clientID": "92f11bfc-c761-42c3-8f5b-6b71a873310b",
+	"clientSecret": "qqGYScuCpZJUmeXn"
+}
